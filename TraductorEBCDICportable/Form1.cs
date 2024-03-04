@@ -222,7 +222,7 @@ namespace TraductorEBCDICportable
                             data[i] = 0xf3;     //3
                             break;
                         case 0x34:
-                            data[i] = 0x34;     //4
+                            data[i] = 0xf4;     //4
                             break;
                         case 0x35:
                             data[i] = 0xf5;     //5
@@ -624,7 +624,7 @@ namespace TraductorEBCDICportable
                             data[i] = 0xaf;     //®
                             break;
                         case 0xaf:
-                            data[i] = 0xaf;     //¯
+                            data[i] = 0xbc;     //¯
                             break;
 
                         //bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
@@ -684,7 +684,7 @@ namespace TraductorEBCDICportable
 
 
                         case 0xc0:
-                            data[i] = 0x6a;     //À
+                            data[i] = 0x64;     //À
                             break;
                         case 0xc1:
                             data[i] = 0x65;     //Á
