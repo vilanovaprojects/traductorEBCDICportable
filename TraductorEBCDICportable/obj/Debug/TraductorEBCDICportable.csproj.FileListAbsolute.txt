@@ -1,0 +1,10 @@
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\obj\Debug\TraductorEBCDICportable.csproj.AssemblyReference.cache
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\obj\Debug\TraductorEBCDICportable.Properties.Resources.resources
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\obj\Debug\TraductorEBCDICportable.csproj.GenerateResource.cache
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\obj\Debug\TraductorEBCDICportable.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\bin\Debug\TraductorEBCDICportable.exe.config
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\bin\Debug\TraductorEBCDICportable.exe
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\bin\Debug\TraductorEBCDICportable.pdb
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\obj\Debug\TraductorEBCDICportable.Form1.resources
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\obj\Debug\TraductorEBCDICportable.exe
+C:\Users\Moises\Documents\PROGRAMACION\WindowsForms\TraductorEBCDICportable\TraductorEBCDICportable\obj\Debug\TraductorEBCDICportable.pdb
