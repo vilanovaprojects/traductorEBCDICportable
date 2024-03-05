@@ -27,7 +27,7 @@ namespace TraductorEBCDICportable
                 string archivoSeleccionado = dialog.FileName;
                 long tamanoArchivoBytes = new FileInfo(archivoSeleccionado).Length;       // Validar el tamaño del archivo en bytes
                 long tamanoArchivoKB = tamanoArchivoBytes / 1024;                                   // Convertir bytes a kilobytes (KB)
-                long limiteTamanoKB = 40;                                                           // Establecer el límite de tamaño permitido en KB (50 KB en este ejemplo)
+                long limiteTamanoKB = 400;                                                           // Establecer el límite de tamaño permitido en KB (400 KB en este ejemplo)
 
                 if (tamanoArchivoKB > limiteTamanoKB)
                 {
